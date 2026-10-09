@@ -37,4 +37,4 @@ Email **security@unraven.com** — see our [security policy](https://github.com/
 
 ### Get in touch
 
-[X / Twitter](https://x.com/unravenhq) · [Email](mailto:hello@unraven.com)
+[Email](mailto:hello@unraven.com)
